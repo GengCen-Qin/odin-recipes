@@ -1,0 +1,32 @@
+* {
+    font-family: "Microsoft Yahei", Times, sans-serif;
+    font-size: 24px;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+a {
+    color: rgb(180, 58, 58);
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.content #introduction {
+    text-align: center;
+}
+
+.header {
+    border-bottom: 1px solid orange;
+}
+
+.footer {
+    border-top: 1px solid orange;
+    text-align: center;
+}
